@@ -11,7 +11,7 @@ import Register from '@/page/register.vue'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     { // 初始页路由：
       path: '/',

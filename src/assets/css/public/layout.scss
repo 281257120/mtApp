@@ -26,3 +26,12 @@
     sans-serif !important;
     background-color: #F8F8F8;
 }
+// .el-main::-webkit-scrollbar{
+//     display: none;
+//     width: 0;
+//     height: 0;
+    
+// }
+.el-main{
+    overflow: hidden !important;
+}

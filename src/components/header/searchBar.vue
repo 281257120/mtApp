@@ -2,7 +2,7 @@
   <div class="search-panel">
     <el-row class="m-eader-searchbarh">
       <el-col :span="3" class="left">
-        <img src="//s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png" alt="美团" />
+        <img src="https://s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png" alt="美团" />
       </el-col>
       <el-col :span="15" class="center">
         <div class="wrapper">

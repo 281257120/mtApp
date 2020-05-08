@@ -32,7 +32,7 @@
       <el-col :span="6">
         <div class="m-life-login border">
           <h4>
-            <img src="//s0.meituan.net/bs/fe-web-meituan/e350c4a/img/avatar.jpg" alt />
+            <img src="https://s0.meituan.net/bs/fe-web-meituan/e350c4a/img/avatar.jpg" alt />
           </h4>
           <p class="m-life-login-name">Hi ！{{$store.state.userName ? $store.state.userName : '你好'}}</p>
           <p v-if="!$store.state.userName">
@@ -60,7 +60,7 @@
       </el-col>
       <el-col :span="6">
         <div class="m-life-downapp border">
-          <img src="//s1.meituan.net/bs/fe-web-meituan/60ac9a0/img/download-qr.png" alt="下载APP" />
+          <img src="https://s1.meituan.net/bs/fe-web-meituan/60ac9a0/img/download-qr.png" alt="下载APP" />
            <p>美团APP手机版</p>
           <p class="last-p">
             <span slass="red">1元起</span>

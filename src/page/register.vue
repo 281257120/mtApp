@@ -2,7 +2,7 @@
   <div class="page-register">
     <div class="header">
       <header>
-        <img src="//s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png" alt="美团" />
+        <img src="https://s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png" alt="美团" />
         <div class="login">
           <span>已有美团账号？</span>
           <router-link :to="{name: 'login'}">登录</router-link>

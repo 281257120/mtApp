@@ -158,45 +158,45 @@ export default {
       imgList: [
         {
           img1:
-            "//p0.meituan.net/movie/fcabb91dbae511e8a32af1deeb0c1cec204154.jpg@214w_297h_1e_1c",
+            "https://p0.meituan.net/movie/fcabb91dbae511e8a32af1deeb0c1cec204154.jpg@214w_297h_1e_1c",
           num1: "32775",
           name1: "大红包",
           img2:
-            "//p1.meituan.net/movie/51d3b0c39d082db32c3534cb68338b441447222.png@214w_297h_1e_1c",
+            "https://p1.meituan.net/movie/51d3b0c39d082db32c3534cb68338b441447222.png@214w_297h_1e_1c",
           num2: "13759",
           name2: "灰烬重生",
           img3:
-            "//p0.meituan.net/movie/a06c36755e3e4e902235e9904cc1551b4677926.jpg@214w_297h_1e_1c",
+            "https://p0.meituan.net/movie/a06c36755e3e4e902235e9904cc1551b4677926.jpg@214w_297h_1e_1c",
           num3: "10926",
           name3: "印度奇游",
           img4:
-            "//p0.meituan.net/moviemachine/0c3f4cd8caf0f0848a54e3081349bdac22615677.jpg@214w_297h_1e_1c",
+            "https://p0.meituan.net/moviemachine/0c3f4cd8caf0f0848a54e3081349bdac22615677.jpg@214w_297h_1e_1c",
           num4: "10207",
           name4: "魔法学院",
           img5:
-            "//p1.meituan.net/movie/b907eadfcafa0bd594b3d4e44952c9cc18752.jpg@214w_297h_1e_1c",
+            "https://p1.meituan.net/movie/b907eadfcafa0bd594b3d4e44952c9cc18752.jpg@214w_297h_1e_1c",
           num5: "8017",
           name5: "今生只为遇见你"
         },
         {
           img1:
-            "//p1.meituan.net/moviemachine/1d2b4985d0187b437d41a73994ba2e191607376.jpg@214w_297h_1e_1c",
+            "https://p1.meituan.net/moviemachine/1d2b4985d0187b437d41a73994ba2e191607376.jpg@214w_297h_1e_1c",
           num1: "6227",
           name1: "奇妙王国",
           img2:
-            "//p0.meituan.net/movie/81fe2197ef930c79624a28cc76c423835264620.png@214w_297h_1e_1c",
+            "https://p0.meituan.net/movie/81fe2197ef930c79624a28cc76c423835264620.png@214w_297h_1e_1c",
           num2: "5682",
           name2: "小公主艾薇",
           img3:
-            "//p1.meituan.net/movie/174c45cf85694f065224ee38b29282903015976.jpg@214w_297h_1e_1c",
+            "https://p1.meituan.net/movie/174c45cf85694f065224ee38b29282903015976.jpg@214w_297h_1e_1c",
           num3: "1380",
           name3: "愤怒的心",
           img4:
-            "//p1.meituan.net/moviemachine/e10ceb90d2c06d3524d01d573ccf88fb7514998.jpg@214w_297h_1e_1c",
+            "https://p1.meituan.net/moviemachine/e10ceb90d2c06d3524d01d573ccf88fb7514998.jpg@214w_297h_1e_1c",
           num4: "15411",
           name4: "金蝉降魔",
           img5:
-            "//p0.meituan.net/movie/1907a5af889e44236fd80952980d36e13257090.jpg@214w_297h_1e_1c",
+            "https://p0.meituan.net/movie/1907a5af889e44236fd80952980d36e13257090.jpg@214w_297h_1e_1c",
           num5: "3936",
           name5: "82号古宅"
         }
